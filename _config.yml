@@ -2,7 +2,7 @@
 baseurl: "https://astro.sick-simon.de"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: "not_yet_implemented"
 
 # UI configs
 title: "Astrophotography by Sick Simon"
@@ -13,8 +13,8 @@ header:
  subtitle: "by Sick Simon"
 footer:
  name: "Hey there, my name is Simon"
- bio: "I am a developer and a tech aficionado from Germany. Love making teeny tiny apps solving tiny problems in life and now learning astrophotography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork ramswaroop on github</a> ;)"
+ bio: "I am a developer, space-explorer, synthesizer-cat and love art, tech and slow music."
+ github: "Want to explore the universe together? Just reach out to me! I'm passionate for what I am doing and always in search for like-minded. ¯\_(ツ)_/¯"
 web_design: "CS"
 social_urls:
   twitter: "https://www.twitter.com/srsmnsn"
